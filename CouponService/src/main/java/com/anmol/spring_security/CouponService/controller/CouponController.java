@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.anmol.spring_security.CouponService.entity.Coupon;
-import com.anmol.spring_security.CouponService.entity.Demo;
 import com.anmol.spring_security.CouponService.repository.CouponRepository;
 
 @RestController
